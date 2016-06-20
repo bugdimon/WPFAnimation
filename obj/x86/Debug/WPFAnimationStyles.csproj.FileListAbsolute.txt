@@ -1,0 +1,128 @@
+D:\Work\Math-fak\2 kurs\group-V\WPFAnimationStyles\WPFAnimationStyles\bin\Debug\WPFAnimationStyles.exe
+D:\Work\Math-fak\2 kurs\group-V\WPFAnimationStyles\WPFAnimationStyles\bin\Debug\WPFAnimationStyles.pdb
+D:\Work\Math-fak\2 kurs\group-V\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Work\Math-fak\2 kurs\group-V\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\MainWindow.baml
+D:\Work\Math-fak\2 kurs\group-V\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\MainWindow.g.cs
+D:\Work\Math-fak\2 kurs\group-V\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\App.g.cs
+D:\Work\Math-fak\2 kurs\group-V\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles_MarkupCompile.cache
+D:\Work\Math-fak\2 kurs\group-V\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.g.resources
+D:\Work\Math-fak\2 kurs\group-V\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.Properties.Resources.resources
+D:\Work\Math-fak\2 kurs\group-V\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Work\Math-fak\2 kurs\group-V\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Work\Math-fak\2 kurs\group-V\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.exe
+D:\Work\Math-fak\2 kurs\group-V\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.pdb
+D:\Work\Math-fak\2 kurs\group-V\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\Animation.baml
+D:\Work\Math-fak\2 kurs\group-V\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\Animation.g.cs
+J:\Учеба\ООП\задачи\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.exe
+J:\Учеба\ООП\задачи\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.pdb
+J:\Учеба\ООП\задачи\WPFAnimationStyles\WPFAnimationStyles\bin\Debug\WPFAnimationStyles.exe
+J:\Учеба\ООП\задачи\WPFAnimationStyles\WPFAnimationStyles\bin\Debug\WPFAnimationStyles.pdb
+J:\Учеба\ООП\задачи\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Учеба\ООП\задачи\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\Animation.baml
+J:\Учеба\ООП\задачи\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\MainWindow.baml
+J:\Учеба\ООП\задачи\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\Animation.g.cs
+J:\Учеба\ООП\задачи\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\MainWindow.g.cs
+J:\Учеба\ООП\задачи\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\App.g.cs
+J:\Учеба\ООП\задачи\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles_MarkupCompile.cache
+J:\Учеба\ООП\задачи\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.g.resources
+J:\Учеба\ООП\задачи\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.Properties.Resources.resources
+J:\Учеба\ООП\задачи\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\Учеба\ООП\задачи\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Мои Документы\ООП\задачи\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.exe
+D:\Мои Документы\ООП\задачи\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.pdb
+D:\Мои Документы\ООП\задачи\WPFAnimationStyles\WPFAnimationStyles\bin\Debug\WPFAnimationStyles.exe
+D:\Мои Документы\ООП\задачи\WPFAnimationStyles\WPFAnimationStyles\bin\Debug\WPFAnimationStyles.pdb
+D:\Мои Документы\ООП\задачи\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\Animation.baml
+D:\Мои Документы\ООП\задачи\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\MainWindow.baml
+D:\Мои Документы\ООП\задачи\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\Animation.g.cs
+D:\Мои Документы\ООП\задачи\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\MainWindow.g.cs
+D:\Мои Документы\ООП\задачи\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\App.g.cs
+D:\Мои Документы\ООП\задачи\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles_MarkupCompile.cache
+D:\Мои Документы\ООП\задачи\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.g.resources
+D:\Мои Документы\ООП\задачи\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.Properties.Resources.resources
+D:\Мои Документы\ООП\задачи\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\Учеба 2 курс\задачи\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.exe
+C:\Users\1\Desktop\Учеба 2 курс\задачи\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.pdb
+C:\Users\1\Desktop\ооп\Лаб №7-8\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.exe
+C:\Users\1\Desktop\ооп\Лаб №7-8\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.pdb
+C:\Users\1\Desktop\ооп\Лаб №7-8\WPFAnimationStyles\WPFAnimationStyles\bin\Debug\WPFAnimationStyles.exe
+C:\Users\1\Desktop\ооп\Лаб №7-8\WPFAnimationStyles\WPFAnimationStyles\bin\Debug\WPFAnimationStyles.pdb
+C:\Users\1\Desktop\ооп\Лаб №7-8\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\Animation.baml
+C:\Users\1\Desktop\ооп\Лаб №7-8\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\MainWindow.baml
+C:\Users\1\Desktop\ооп\Лаб №7-8\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\Animation.g.cs
+C:\Users\1\Desktop\ооп\Лаб №7-8\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\MainWindow.g.cs
+C:\Users\1\Desktop\ооп\Лаб №7-8\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\App.g.cs
+C:\Users\1\Desktop\ооп\Лаб №7-8\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles_MarkupCompile.cache
+C:\Users\1\Desktop\ооп\Лаб №7-8\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.g.resources
+C:\Users\1\Desktop\ооп\Лаб №7-8\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.Properties.Resources.resources
+C:\Users\1\Desktop\ооп\Лаб №7-8\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.csproj.GenerateResource.Cache
+C:\Users\Олеся\Desktop\c#\Лаб №7-8\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.exe
+C:\Users\Олеся\Desktop\c#\Лаб №7-8\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.pdb
+C:\Users\Олеся\Desktop\c#\Лаб №7-8\WPFAnimationStyles\WPFAnimationStyles\bin\Debug\WPFAnimationStyles.exe
+C:\Users\Олеся\Desktop\c#\Лаб №7-8\WPFAnimationStyles\WPFAnimationStyles\bin\Debug\WPFAnimationStyles.pdb
+C:\Users\Олеся\Desktop\c#\Лаб №7-8\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\Animation.baml
+C:\Users\Олеся\Desktop\c#\Лаб №7-8\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\MainWindow.baml
+C:\Users\Олеся\Desktop\c#\Лаб №7-8\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\Animation.g.cs
+C:\Users\Олеся\Desktop\c#\Лаб №7-8\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Олеся\Desktop\c#\Лаб №7-8\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\App.g.cs
+C:\Users\Олеся\Desktop\c#\Лаб №7-8\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles_MarkupCompile.cache
+C:\Users\Олеся\Desktop\c#\Лаб №7-8\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.g.resources
+C:\Users\Олеся\Desktop\c#\Лаб №7-8\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.Properties.Resources.resources
+C:\Users\Олеся\Desktop\c#\Лаб №7-8\WPFAnimationStyles\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.csproj.GenerateResource.Cache
+C:\Users\Олеся\Desktop\ТГПУ им Л Н ТОЛСТОГО\2 КУРС\4 семестр\Объектно-ориентированное программирование\Лабораторная работа №7-8\Lab_7-8\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.exe
+C:\Users\Олеся\Desktop\ТГПУ им Л Н ТОЛСТОГО\2 КУРС\4 семестр\Объектно-ориентированное программирование\Лабораторная работа №7-8\Lab_7-8\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.pdb
+C:\Users\Олеся\Desktop\ТГПУ им Л Н ТОЛСТОГО\2 КУРС\4 семестр\Объектно-ориентированное программирование\Лабораторная работа №7-8\Lab_7-8\WPFAnimationStyles\bin\Debug\WPFAnimationStyles.exe
+C:\Users\Олеся\Desktop\ТГПУ им Л Н ТОЛСТОГО\2 КУРС\4 семестр\Объектно-ориентированное программирование\Лабораторная работа №7-8\Lab_7-8\WPFAnimationStyles\bin\Debug\WPFAnimationStyles.pdb
+C:\Users\Олеся\Desktop\ТГПУ им Л Н ТОЛСТОГО\2 КУРС\4 семестр\Объектно-ориентированное программирование\Лабораторная работа №7-8\Lab_7-8\WPFAnimationStyles\obj\x86\Debug\Animation.baml
+C:\Users\Олеся\Desktop\ТГПУ им Л Н ТОЛСТОГО\2 КУРС\4 семестр\Объектно-ориентированное программирование\Лабораторная работа №7-8\Lab_7-8\WPFAnimationStyles\obj\x86\Debug\MainWindow.baml
+C:\Users\Олеся\Desktop\ТГПУ им Л Н ТОЛСТОГО\2 КУРС\4 семестр\Объектно-ориентированное программирование\Лабораторная работа №7-8\Lab_7-8\WPFAnimationStyles\obj\x86\Debug\Animation.g.cs
+C:\Users\Олеся\Desktop\ТГПУ им Л Н ТОЛСТОГО\2 КУРС\4 семестр\Объектно-ориентированное программирование\Лабораторная работа №7-8\Lab_7-8\WPFAnimationStyles\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Олеся\Desktop\ТГПУ им Л Н ТОЛСТОГО\2 КУРС\4 семестр\Объектно-ориентированное программирование\Лабораторная работа №7-8\Lab_7-8\WPFAnimationStyles\obj\x86\Debug\App.g.cs
+C:\Users\Олеся\Desktop\ТГПУ им Л Н ТОЛСТОГО\2 КУРС\4 семестр\Объектно-ориентированное программирование\Лабораторная работа №7-8\Lab_7-8\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles_MarkupCompile.cache
+C:\Users\Олеся\Desktop\ТГПУ им Л Н ТОЛСТОГО\2 КУРС\4 семестр\Объектно-ориентированное программирование\Лабораторная работа №7-8\Lab_7-8\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.g.resources
+C:\Users\Олеся\Desktop\ТГПУ им Л Н ТОЛСТОГО\2 КУРС\4 семестр\Объектно-ориентированное программирование\Лабораторная работа №7-8\Lab_7-8\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.Properties.Resources.resources
+C:\Users\Олеся\Desktop\ТГПУ им Л Н ТОЛСТОГО\2 КУРС\4 семестр\Объектно-ориентированное программирование\Лабораторная работа №7-8\Lab_7-8\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.csproj.GenerateResource.Cache
+E:\Dropbox\Dropbox\Универ\4 семестр\ООП\Kirov_07-08\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.exe
+E:\Dropbox\Dropbox\Универ\4 семестр\ООП\Kirov_07-08\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.pdb
+E:\Dropbox\Dropbox\Универ\4 семестр\ООП\Kirov_07-08\WPFAnimationStyles\bin\Debug\WPFAnimationStyles.exe
+E:\Dropbox\Dropbox\Универ\4 семестр\ООП\Kirov_07-08\WPFAnimationStyles\bin\Debug\WPFAnimationStyles.pdb
+E:\Dropbox\Dropbox\Универ\4 семестр\ООП\Kirov_07-08\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.csprojResolveAssemblyReference.cache
+E:\Dropbox\Dropbox\Универ\4 семестр\ООП\Kirov_07-08\WPFAnimationStyles\obj\x86\Debug\Animation.baml
+E:\Dropbox\Dropbox\Универ\4 семестр\ООП\Kirov_07-08\WPFAnimationStyles\obj\x86\Debug\MainWindow.baml
+E:\Dropbox\Dropbox\Универ\4 семестр\ООП\Kirov_07-08\WPFAnimationStyles\obj\x86\Debug\Animation.g.cs
+E:\Dropbox\Dropbox\Универ\4 семестр\ООП\Kirov_07-08\WPFAnimationStyles\obj\x86\Debug\MainWindow.g.cs
+E:\Dropbox\Dropbox\Универ\4 семестр\ООП\Kirov_07-08\WPFAnimationStyles\obj\x86\Debug\App.g.cs
+E:\Dropbox\Dropbox\Универ\4 семестр\ООП\Kirov_07-08\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles_MarkupCompile.cache
+E:\Dropbox\Dropbox\Универ\4 семестр\ООП\Kirov_07-08\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.g.resources
+E:\Dropbox\Dropbox\Универ\4 семестр\ООП\Kirov_07-08\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.Properties.Resources.resources
+E:\Dropbox\Dropbox\Универ\4 семестр\ООП\Kirov_07-08\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.csproj.GenerateResource.Cache
+E:\Dropbox\Универ\4 семестр\ООП\Kirov_07-08\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.exe
+E:\Dropbox\Универ\4 семестр\ООП\Kirov_07-08\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.pdb
+C:\Users\Student\Desktop\Kirov_07-08\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.exe
+C:\Users\Student\Desktop\Kirov_07-08\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.pdb
+C:\Users\Student\Desktop\Kirov_07-08\WPFAnimationStyles\bin\Debug\WPFAnimationStyles.exe
+C:\Users\Student\Desktop\Kirov_07-08\WPFAnimationStyles\bin\Debug\WPFAnimationStyles.pdb
+C:\Users\Student\Desktop\Kirov_07-08\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Kirov_07-08\WPFAnimationStyles\obj\x86\Debug\Animation.baml
+C:\Users\Student\Desktop\Kirov_07-08\WPFAnimationStyles\obj\x86\Debug\MainWindow.baml
+C:\Users\Student\Desktop\Kirov_07-08\WPFAnimationStyles\obj\x86\Debug\Animation.g.cs
+C:\Users\Student\Desktop\Kirov_07-08\WPFAnimationStyles\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Student\Desktop\Kirov_07-08\WPFAnimationStyles\obj\x86\Debug\App.g.cs
+C:\Users\Student\Desktop\Kirov_07-08\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles_MarkupCompile.cache
+C:\Users\Student\Desktop\Kirov_07-08\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.g.resources
+C:\Users\Student\Desktop\Kirov_07-08\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.Properties.Resources.resources
+C:\Users\Student\Desktop\Kirov_07-08\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.csproj.GenerateResource.Cache
+C:\Users\Student\Documents\Visual Studio 2010\Projects\2_kyrs\part 2\opp72\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.exe
+C:\Users\Student\Documents\Visual Studio 2010\Projects\2_kyrs\part 2\opp72\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.pdb
+C:\Users\Student\Documents\Visual Studio 2010\Projects\2_kyrs\part 2\opp72\WPFAnimationStyles\bin\Debug\WPFAnimationStyles.exe
+C:\Users\Student\Documents\Visual Studio 2010\Projects\2_kyrs\part 2\opp72\WPFAnimationStyles\bin\Debug\WPFAnimationStyles.pdb
+C:\Users\Student\Documents\Visual Studio 2010\Projects\2_kyrs\part 2\opp72\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2010\Projects\2_kyrs\part 2\opp72\WPFAnimationStyles\obj\x86\Debug\Animation.baml
+C:\Users\Student\Documents\Visual Studio 2010\Projects\2_kyrs\part 2\opp72\WPFAnimationStyles\obj\x86\Debug\MainWindow.baml
+C:\Users\Student\Documents\Visual Studio 2010\Projects\2_kyrs\part 2\opp72\WPFAnimationStyles\obj\x86\Debug\Animation.g.cs
+C:\Users\Student\Documents\Visual Studio 2010\Projects\2_kyrs\part 2\opp72\WPFAnimationStyles\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Student\Documents\Visual Studio 2010\Projects\2_kyrs\part 2\opp72\WPFAnimationStyles\obj\x86\Debug\App.g.cs
+C:\Users\Student\Documents\Visual Studio 2010\Projects\2_kyrs\part 2\opp72\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles_MarkupCompile.cache
+C:\Users\Student\Documents\Visual Studio 2010\Projects\2_kyrs\part 2\opp72\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.g.resources
+C:\Users\Student\Documents\Visual Studio 2010\Projects\2_kyrs\part 2\opp72\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.Properties.Resources.resources
+C:\Users\Student\Documents\Visual Studio 2010\Projects\2_kyrs\part 2\opp72\WPFAnimationStyles\obj\x86\Debug\WPFAnimationStyles.csproj.GenerateResource.Cache
